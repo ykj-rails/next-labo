@@ -1,5 +1,5 @@
+import '@/styles/globals.css'
 import { Header } from '@/components/Header'
-import React from 'react'
 
 type Props = {
   children: React.ReactNode
