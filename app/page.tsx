@@ -1,5 +1,5 @@
+import { UserList } from '@/components/UserList'
 import { Suspense, use } from 'react'
-import { UserList } from '../src/components/UserList'
 import Loading from './loading'
 
 type Hello = {
